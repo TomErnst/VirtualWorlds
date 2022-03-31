@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VirtualWorlds", "http://localhost/VirtualWorlds", "{058FA402-183F-4E15-A5EF-C8D88F562E6B}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/VirtualWorlds"
+		Debug.AspNetCompiler.PhysicalPath = "..\IIS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\VirtualWorlds\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/VirtualWorlds"
+		Release.AspNetCompiler.PhysicalPath = "..\IIS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\VirtualWorlds\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\IIS\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058FA402-183F-4E15-A5EF-C8D88F562E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058FA402-183F-4E15-A5EF-C8D88F562E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18FDBDE1-B415-4C95-917F-B980DE11F235}
+	EndGlobalSection
+EndGlobal

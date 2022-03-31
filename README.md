@@ -1,2 +1,2 @@
 # VirtualWorlds
-General Repository for Virtual World Handling
+General Repository for Virtual World Systems
